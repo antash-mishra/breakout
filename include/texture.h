@@ -1,8 +1,6 @@
 #ifndef TEXTURE_H
 #define TEXTURE_H
 
-#include "glad/glad.h"
-
 class Texture2D {
   public:
     // holds the ID of the texture object, used by OpenGL
